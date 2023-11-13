@@ -1,0 +1,279 @@
+body {
+    margin:0;
+    background-color: #0a0a0a;
+    color: #EEE3C1;
+    font-family: "Neue Haas Grotesk Text Bd", Helvetica, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-right: 130px;
+    /* transition: .2s;
+    -webkit-font-smoothing: antialiased; */
+}
+
+.how{
+    background-color: #D0021B;
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+    position:absolute;
+    margin-top: 520px;
+    margin-left: -500px;
+}
+
+#download{
+    text-decoration: none;
+    color: #D0021B;
+    font-size: x-large;
+    margin-left: 1000px;
+}
+
+#firstimg{
+    margin-left: 20px;
+    height: 1050px;
+}
+
+#hourly-app {
+    text-decoration: none;
+    color: #D0021B;
+    font-size: 400px;
+}
+
+#time-track {
+    position: absolute;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+#hourly-div-container {
+    position: absolute;
+    display: flex;
+    height: 80px;
+    width: 1000px;
+    margin-right: 200px;
+    padding-right: 135px;
+    padding-left: 25px;
+    justify-content: space-around;
+}
+
+.hourly-div {
+    font-size: 20px ;
+    height:80px ;
+    width: 200px;
+}
+
+#div3{
+    display: inline-flex;
+    justify-content: space-around;
+    height: 770px;
+    width: 1200px;
+}
+.div3-img{
+    width: 380px;
+}
+
+#div4 {
+    display: flex;
+    height: 300px;
+    width: 1200px;
+    justify-content: space-between;
+}
+
+#div4-link {
+    display: flex;
+    justify-content: end;
+    flex-wrap: wrap;
+} 
+
+#div4-link a {
+    width: 300px;
+    padding-top: 150px;
+    padding-right: 150px;
+    text-decoration: none;
+    color: #D0021B;
+    font-size: 40px;
+}
+
+#div4-link a:hover {
+    font-size: 70px;
+} 
+/*
+#div4-link:hover {
+    padding-top: 0px;
+    padding-right:0px;
+} */
+
+#div4-para {
+    font-size: 40px;
+    letter-spacing: -1px;
+    width: 800px;
+}
+
+#div7 {
+    display: flex;
+    width: 1200px;
+}
+
+#div7 div img {
+    width: 380px;
+}
+
+#div7 div video {
+    width: 330px;
+    position: absolute;
+    margin-left: -355px;
+    margin-top: 85px;
+    border-radius: 3px;
+}
+
+#div7 div a {
+    text-decoration: none;
+    color: #D0021B;
+    font-size: 200px;
+    margin-left: 30px;
+}
+
+#div7 div p {
+    font-size: 45px;
+    margin-left: 30px;
+}
+
+#div9 div a {
+    text-decoration: none;
+    color: #D0021B;
+    font-size: 200px;
+}
+
+#div9 div p {
+    font-size: 45px;
+}
+
+#habits {
+    display: flex;
+    margin-bottom: -10px;
+}
+
+.habit {
+    font-size: x-large;
+}
+
+#habit-1 {
+    width: 1000px;
+}
+
+#habit-2 {
+    width: 1035px;
+}
+
+#habit-3 {
+    width: 950px;
+}
+
+#habit-4 {
+    width: 915px;
+}
+
+#habit-5 {
+    width: 965px;
+}
+
+#habit-6 {
+    width: 985px;
+}
+
+#habit-7 {
+    width: 1085px;
+}
+
+#habit-8 {
+    width: 1010px;
+}
+
+#habit-9{
+    width: 1085px;
+}
+
+#habit-10 {
+    width: 990px;
+}
+
+#habit-11 {
+    width: 1005px;
+}
+
+#div10 {
+    height: 600px;
+}
+
+#oh {
+    display: flex;
+}
+
+#oho {
+    font-size: 300px;
+    letter-spacing: -30px;
+}
+
+#and {
+    position: absolute;
+    font-size: 300px;
+    letter-spacing: -30px;
+    margin-top: 100px;
+    margin-left: 380px;
+}
+
+#it {
+    display: flex;
+}
+
+#its{
+    font-size: 300px;
+    letter-spacing: -30px;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: -33px;
+}
+
+#for {
+    font-size: 50px;
+    letter-spacing: -5px;
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 115px;
+}
+
+#free {
+    font-size: 300px;
+    letter-spacing: -20px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+#div6 {
+    height: 800px;
+    letter-spacing: -30px;
+}
+
+#how {
+    font-size: 300px;
+    color: #D0021B;
+    margin-left: 100px;
+    margin-top: -40px;
+}
+
+span{
+    color: #D0021B;
+}
+
+#to-use {
+    font-size: 300px;
+    margin-top: -70px;
+    margin-left: 200px;
+}
+
+#hourly {
+    font-size: 300px;
+    margin-top: -70px;
+    margin-left: 30px;
+}
